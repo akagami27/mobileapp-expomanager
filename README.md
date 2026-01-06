@@ -16,4 +16,5 @@ Mobile application developed using Flutter for ISB26603 Mobile & Ubiquitous Comp
 
 ## How to Run
 flutter pub get
+
 flutter run
