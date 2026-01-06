@@ -60,9 +60,10 @@ All final features were merged into the `main` branch to ensure application stab
 
 Follow the steps below to run the project locally.
 
+### Steps Below
+
 ### 1. Clone the repository
-```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/akagami27/mobileapp-expomanager.git
 cd expo_manager_booth_new
 
 
@@ -84,5 +85,7 @@ Flutter Version & Dependencies
 Flutter SDK
 Flutter SDK: >=3.0.0 <4.0.0
 Dart SDK: >=3.0.0
+
+
 
 
