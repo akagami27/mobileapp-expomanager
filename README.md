@@ -1,16 +1,19 @@
-# expo_manager_booth
+# Expo Manager Booth System
 
-A new Flutter project.
+Mobile application developed using Flutter for ISB26603 Mobile & Ubiquitous Computing.
 
-## Getting Started
+## Features
+- Exhibitor & Admin authentication
+- Exhibition & booth management
+- Booth application workflow
+- Firebase Firestore integration
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Shared Preferences
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+flutter pub get
+flutter run
