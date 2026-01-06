@@ -74,8 +74,11 @@ flutter pub get
 Ensure the following are correctly set up:
 
 -firebase_options.dart is present
+
 -Firebase Authentication is enabled
+
 -Cloud Firestore is enabled
+
 -The project is linked to the correct Firebase project
 
 ### 4.Run the application
