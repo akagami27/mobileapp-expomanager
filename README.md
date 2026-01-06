@@ -85,7 +85,7 @@ Ensure the following are correctly set up:
 flutter run
 
 
-Flutter Version & Dependencies
+### Flutter Version & Dependencies
 
 Flutter SDK
 
