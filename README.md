@@ -84,9 +84,13 @@ Ensure the following are correctly set up:
 ### 4.Run the application
 flutter run
 
+
 Flutter Version & Dependencies
+
 Flutter SDK
+
 Flutter SDK: >=3.0.0 <4.0.0
+
 Dart SDK: >=3.0.0
 
 
