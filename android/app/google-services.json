@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472559707246",
+    "project_id": "expo-booking-e6518",
+    "storage_bucket": "expo-booking-e6518.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472559707246:android:4d6a3900404acb1807327f",
+        "android_client_info": {
+          "package_name": "com.example.expo_manager_booth_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjL5R10Xl5ZAnoTv6LN-a0Vc4gxNUtQrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
