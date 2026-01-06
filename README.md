@@ -64,6 +64,7 @@ Follow the steps below to run the project locally.
 
 ### 1. Clone the repository
 git clone https://github.com/akagami27/mobileapp-expomanager.git
+
 cd expo_manager_booth_new
 
 
